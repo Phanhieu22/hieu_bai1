@@ -1,0 +1,10 @@
+thuộc tính overflow 
+overflow visible:nếu chiều cao của box không đủ chứa text thì text vẫn tràn qua box đây là mặc định 
+overflow:hidden khi chiều cao của box không đủ chứa text thì text bị tràn sẽ được dấu đi 
+overflow:scroll khi chiều cao của box không đủ chứa text thì text bị tràn sẽ được dấu đi và xuất hiện thanh scroll,khi cuộn sẽ hiển thị text 
+khi sử dụng thành phần này sẽ xuất hiện cả thanh scroll dọc và ngang
+overflow:autu khi chiều cao không đủ chứa text thì thanh scroll sẽ tự động hiển thị 
+khi phần này sẽ xuất hiện thanh scroll dọc 
+overflow:inherit xác định thừa hưởng từ thành phần cha (thành phần bao ngoài)
+// nếu bạn làm những điều bình thường thì cuộc sống bạn cũng sẽ bình thường
+tôi muốn sống một cuộc đời vĩ đại
